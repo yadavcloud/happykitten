@@ -1,0 +1,22 @@
+title: Happy Kitten
+author: Rohit Yadav
+email: rohit@yadav.cloud
+description: >
+  This site celebrates life of a beloved kitten named Happy. Adopt don't shop.
+Do not purchase kitten or cat online, stay away from online sale of cat and
+kitten whether in Delhi NCR India or major cities like Bangalore, Mumbai, Pune,
+Kolkata, Hyderabad.
+
+baseurl: ""
+url: http://happykitten.in
+
+timezone: Asia/Kolkata
+encoding: "utf-8"
+
+permalink: post/:title/
+
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
