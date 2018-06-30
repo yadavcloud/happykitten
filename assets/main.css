@@ -91,6 +91,14 @@ and (max-width : 750px) {
   margin:5px;
 }
 
+a, a:link, a:visited {
+  color: #bd2130;
+}
+
+a:hover, a:active {
+    color: #dc3545;
+}
+
 img {
   max-width: 100%;
 }

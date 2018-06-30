@@ -3,7 +3,8 @@ layout: page
 title: Cats and Kitten Care
 ---
 
-**Under construction**: Curated links and content on cats and kitten care.
+[**Page under construction**]()
+Curated links and content on cats and kitten care.
 
 - **Getting a Cat or a Kitten**
   - Adopting vs Buying

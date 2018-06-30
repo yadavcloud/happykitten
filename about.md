@@ -3,11 +3,11 @@ layout: page
 title: Who was Happy?
 ---
 
-**Page under construction.**
+[**Page under construction**]()
 
 This website is dedicated to my beloved kitten called Happy 🐱.
 
-FIXME: add story?
+TODO: add story
 
 The goal of this website is to promote cats and kittens adoption starting with
 the Delhi, Gurgaon NCR region and possibly rest of the India in future. This is
