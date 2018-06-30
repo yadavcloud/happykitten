@@ -21,8 +21,16 @@ body {
   display: block;
 }
 
+.topleft {
+  float: left;
+  display: block;
+}
+
 .no-underline {
   text-decoration: none;
+}
+
+span.navmenu {
 }
 
 @media only screen
@@ -31,6 +39,10 @@ and (max-width : 750px) {
   #rmain { width: 100%; }
   span.pagetop { display: block; }
   span.pagetop b { display: block; }
+  span.navmenu {
+    width: 100%;
+    display: inline-block;
+  }
 }
 
 .page-header {
@@ -93,14 +105,24 @@ and (max-width : 750px) {
 
 a, a:link, a:visited {
   color: #bd2130;
+  text-decoration: none;
 }
 
 a:hover, a:active {
-    color: #dc3545;
+  color: #dc3545;
+  text-decoration: none;
+}
+
+h3, h4 {
+  font-weight: bold;
 }
 
 img {
   max-width: 100%;
+}
+
+img-rightpad {
+  margin-right: 10px;
 }
 
 pre {

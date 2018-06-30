@@ -45,16 +45,8 @@ Curated links and content on cats and kitten care.
   - Hiding
   - Loss of apetite
 
-- **Recommendations for Delhi/NCR**
-  - Adoption
-  - Vets
-  - Boarding
-  - Pet Supplies
-
 - **Misc**
   - Loss of Pet
   - Run aways
   - Adoption and Volunteering
-  - Animal Shelter
   - Reporting abuse
-  - Books and Learning

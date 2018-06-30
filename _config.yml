@@ -8,12 +8,12 @@ description: >
   Kolkata, Hyderabad.
 
 baseurl: ""
-url: http://happykitten.in
+url: https://happykitten.in
 
 timezone: Asia/Kolkata
 encoding: "utf-8"
 
-permalink: post/:title/
+permalink: stories/:title/
 
 gems:
 - jekyll-mentions
