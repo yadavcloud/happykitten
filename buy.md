@@ -3,7 +3,6 @@ layout: page
 title: Buy Kittens Cats Online at best price in Delhi Gurgaon NCR Mumbai Pune India
 ---
 
-[**Page under construction**]()
 This page is in progress, the aim is to drive potential
 buyers coming from Google, etc towards adoption.
 

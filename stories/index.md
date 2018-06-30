@@ -3,9 +3,6 @@ layout: page
 title: Stories
 ---
 
-[**Page under construction**]()
-Visit this page soon!
-
 Interviews and stories of vets, cat activists, volunteers, cat-boarders, fosters of Delhi
 NCR region, all things around cats and kittens. To recommendation people, drop
 an email to `rohit@yadav.cloud`.

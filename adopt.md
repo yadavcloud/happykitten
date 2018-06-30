@@ -3,8 +3,6 @@ layout: page
 title: Adopt Kittens and Cats
 ---
 
-[**Page under construction**]()
-
 You should join the [Fans of Cats Delhi](https://www.facebook.com/groups/850715891625822/)
 facebook group and ask for adoption (have patience!) and all things cats.
 
