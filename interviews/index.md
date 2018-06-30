@@ -7,7 +7,7 @@ title: Interviews
 Visit this page soon!
 
 Interviews with vets, cat activists, volunteers, cat-boarders, fosters of Delhi
-NCR region, all things around cats and kittens. To recommendation people, drop
+NCR region, all things around cats and kittens. To recommend people, drop
 an email to `rohit@yadav.cloud`.
 
 Questions spec: (under change/review)
