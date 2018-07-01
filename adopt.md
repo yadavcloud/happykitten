@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adopting Kittens and Cats
+title: Adopt Kittens and Cats in Delhi NCR
 redirect_from: "/buy/"
 ---
 

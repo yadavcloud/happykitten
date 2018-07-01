@@ -46,7 +46,7 @@ and (max-width : 750px) {
 }
 
 .page-header {
-  padding-top: 20px;
+  padding-top: 10px;
   padding-bottom: 10px;
   border-bottom: 1px solid #eee;
 }
@@ -62,7 +62,7 @@ and (max-width : 750px) {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 1000px;
   background-color: #fff;
 }
 

@@ -13,7 +13,7 @@ url: https://happykitten.in
 timezone: Asia/Kolkata
 encoding: "utf-8"
 
-permalink: stories/:title/
+permalink: stories/:categories/:title/
 
 gems:
 - jekyll-mentions
