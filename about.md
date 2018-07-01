@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-<a href="/photos/office-happy.jpg" target="_blank">
-  <img src="/photos/office-happy.jpg" class="img-thumbnail img-fluid rounded float-right" width="40%" alt="...">
+<a href="/photos/napping-happy.jpg" target="_blank">
+  <img src="/photos/napping-happy.jpg" class="img-thumbnail img-fluid rounded" style="margin-right: 10px" alt="...">
 </a>
 
 This website is dedicated to my beloved kitten 'Happy' 🐱.
@@ -22,8 +22,8 @@ reviews, edits and pull requests are also welcome. The site's source is hosted
 
 ### Who was Happy?
 
-<a href="/photos/napping-happy.jpg" target="_blank">
-  <img src="/photos/napping-happy.jpg" class="img-thumbnail img-fluid rounded float-left" style="margin-right: 10px" width="50%" alt="...">
+<a href="/photos/office-happy.jpg" target="_blank">
+  <img src="/photos/office-happy.jpg" class="img-thumbnail img-fluid rounded float-right" width="60%" alt="...">
 </a>
 
 "Happy was my purrfect darling kitten, he loved playing with me, hunting for
@@ -37,7 +37,7 @@ he would do his business. Even on his final day, he demanded and used his litter
 box.
 
 <a href="/photos/cat-tree-happy.jpg" target="_blank">
-  <img src="/photos/cat-tree-happy.jpg" class="img-thumbnail img-fluid rounded float-right" style="margin-left: 10px" width="50%" alt="...">
+  <img src="/photos/cat-tree-happy.jpg" class="img-thumbnail img-fluid rounded float-right" style="margin-left: 10px" width="60%" alt="...">
 </a>
 
 He loved treats, cantaloupe and curd. I caught him few times trying to steal his
