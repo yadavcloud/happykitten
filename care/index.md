@@ -5,46 +5,42 @@ title: Cats and Kitten Care
 
 Curated links and content on cats and kitten care.
 
-- **Getting a Cat or a Kitten**
+- [**Getting a Cat or a Kitten**](getting-a-cat)
   - Adopting vs Buying
-  - Breed Temperaments
-  - Cat-proofing home
+  - Cat-proofing Home
+  - Supplies
 
-- **Basics 101**
-  - Food
-  - Litter Box and training
-  - Water
-  - Toys and Playing
-  - Grooming
-    - Cleaning Eyes, Ears and Face
-    - Brushing Coat
-    - Brushing Teeth
-    - Bathing and Drying
-    - Trimming nails
-  - Security and Tags
+- [**Basic Care**](basic-cat-care)
+  - [Housing](basic-cat-care#housing)
+  - [Feeding](basic-cat-care#feeding)
+  - [Litter Box](basic-cat-care#litter-box)
+  - [Grooming](basic-cat-care#grooming)
+  - [Handling](basic-cat-care#handling)
+  - [Playing](basic-cat-care#playing)
+  - [Safety](basic-cat-care#safety)
 
-- **Health**
-  - Vaccinations
-  - Deworming
-  - Fleas, ticks and mites
+- [**Health**](health)
+  - Medicines and Poisons
+  - Spaying and Neutering
+  - Vaccinations and Deworming
+  - Pest control: fleas, ticks and mites
   - Force Feeding
   - First Aid and CPR
-  - Spaying and Neutering
   - Pain Management
 
-- **Boarding**
-  - Fostering
-  - Boarding and Hostel
-  - Travel management
-  - Relocation
-
-- **Behaviour Issues**
+- [**Behaviour Issues**](behaviour)
   - Agression
   - Withdrawal
   - Hiding
   - Loss of apetite
 
-- **Misc**
+- [**Boarding**](boarding)
+  - Fostering
+  - Boarding and Hostel
+  - Travel management
+  - Relocation
+
+- [**Miscellaneous**](miscellaneous)
   - Loss of Pet
   - Run aways
   - Adoption and Volunteering
