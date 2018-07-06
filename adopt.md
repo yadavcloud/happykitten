@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Adopt Kittens and Cats in Delhi NCR
+title: Adopt Kitten or Cat in Delhi NCR
 redirect_from: "/buy/"
 ---
 
 You should join the [Fans of Cats Delhi](https://www.facebook.com/groups/850715891625822/)
-facebook group and ask for adoption (have patience!) and all things cats.
+facebook group and ask for kitten and cat adoption (have patience!) and ask all
+things cats.
 
 {% include adopt.md %}
 
