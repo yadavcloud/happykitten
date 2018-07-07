@@ -35,4 +35,5 @@ Useful recommendations in Delhi, Gurgaon and the NCR region.
     - "Cat Sense" by John Bradshaw
   - Around the web:
     - [Cat Help Online](http://www.cathelp-online.com)
+    - [Cat Info](https://catinfo.org/)
     - [The CatSite](https://thecatsite.com/forums/)
