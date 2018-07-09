@@ -26,7 +26,7 @@ Useful recommendations in Delhi, Gurgaon and the NCR region.
     - [Jeevashram](http://jeevashram.org/)
     - [PAWS India](http://www.pawsindia.org/)
   - Pet Supplies:
-    - Your local vet!
+    - Your local vet's clinic or petshop!
     - [Amazon](https://www.amazon.in/Cats-Supplies/b/ref=sv_petsupplies_2?ie=UTF8&node=4771341031)
     - [Flipkart](https://www.flipkart.com/pets-store)
     - [Snapdeal](https://www.snapdeal.com/products/cat-supplies)
@@ -37,4 +37,7 @@ Useful recommendations in Delhi, Gurgaon and the NCR region.
   - Around the web:
     - [Cat Help Online](http://www.cathelp-online.com)
     - [Cat Info](https://catinfo.org/)
-    - [The CatSite](https://thecatsite.com/forums/)
+    - [VetInfo (Cats)](https://www.vetinfo.com/category/cats/)
+    - [International Cat Care](https://icatcare.org/)
+    - [WebMD Pets - Cats](https://www.webmd.com/pets/cats/default.htm)
+    - [The CatSite Forum](https://thecatsite.com/forums/)
