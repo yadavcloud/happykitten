@@ -18,6 +18,7 @@ Useful recommendations in Delhi, Gurgaon and the NCR region.
     - Dr Sandeep Yadav: SKRD, Sector 31, Gurgaon
   - Boarding and Sitters:
     - [The Catsville Boulevard, Gurgaon](https://www.facebook.com/thecatsvilleboulevardboarding/)
+    - [Furrever Cat Boarding, Delhi](https://www.facebook.com/furreverbyisha/)
     - [Purrfection, Noida](https://www.facebook.com/purrfectionIndia/)
   - Animal Shelters, NGOs and Rescuers:
     - [Friendicoes](https://friendicoes.org/) ([facebook page](https://www.facebook.com/friendicoesindia/))
