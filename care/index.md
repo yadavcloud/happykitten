@@ -6,9 +6,10 @@ title: Cats and Kitten Care
 Curated links and content on cats and kitten care.
 
 - [**Getting a Cat or a Kitten**](getting-a-cat)
-  - Adopting vs Buying
-  - Cat-proofing Home
-  - Supplies
+  - [Adopting](getting-a-cat#adopting)
+  - [Buying](getting-a-cat#buying)
+  - [Cat-proofing Home](getting-a-cat#cat-proofing-home)
+  - [Acclimatisation](getting-a-cat#acclimatisation)
 
 - [**Basic Care**](basic-cat-care)
   - [Housing](basic-cat-care#housing)
