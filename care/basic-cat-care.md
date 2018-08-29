@@ -3,16 +3,18 @@ layout: page
 title: Basic Cat Care
 ---
 
-Congratulations on being a cat parent. This page contains various
-basic cat care topics, however, remember following basic vital signs:
+Congratulations on being a cat parent. This page contains various topics on
+basic cat care, before proceeding make sure you know and remember cat's basic
+[vital signs](/care/vitals).
 
-- Heart rate: 140-220 beats per minute
-- Temperature: 100F-103F
-- Respiratory rate: 25-42 breaths per minute, in resting state
-- Capillary Refill Time: less than 2 seconds (press gums for example)
-- Hydration Status: Pink, moist not dry skin that should span back against body instantly
+### Essentials Checklist
 
-The page on [health](/health) has more details around feline health and issues.
+Basic list of essential things to get for your cat:
+
+- Dry and wet food, treats
+- Litter box and litter
+- Grooming: brushes, shampoo, cleaning supplies
+- Toys
 
 ### Feeding
 
@@ -51,11 +53,12 @@ Handy foods:
 - Dry treats: these are usually meat jerkies or flakes, once opened consume that
   packet soon or they go bad fast.
 - Creamy treats: useful when your cat stops eating, for both kittens and cats.
-- Honey: great food when your cat stops eating but in very limited quantity
-  advised (5ml or less) as it could cause heating.
 - Curd: in summers, small quantities can be given during day time.
-- Critical care food: keep this around, prescription or A/D food that can be
-  useful especially when your cat stops eating.
+- Honey: can be used as treats or when your cat is hypothermic. Honey has a
+  heating effect and is not easily digestible so give in small (2-4 ml or less)
+  quantities.
+- Critical care food: keep few cans of A/D, critical care food around that can be
+  useful especially when your cat stops eating or becomes ill.
 
 <div class="alert alert-danger" role="alert">
   If your cat or kitten has not eaten for 12 hours or more, it is an emergency!
@@ -65,16 +68,16 @@ Handy foods:
 A common issue with kittens and cats is they often stop eating which can be a
 sign of illness, stress, trauma, etc. More often than not, such a situation can
 become an emergency fast especially for kitten. Be very cautious. You may find
-more about this and other issues on the [health](/health) page.
+more about this and other issues on the [health](/care/health) page.
+
+### Litter Box
+
+Lorem ipsum is placeholder text commonly used in the graphic, print, and
+publishing industries for previewing layouts and visual mockups.
+Lorem ipsum is placeholder text commonly used in the graphic, print, and
+publishing industries for previewing layouts and visual mockups.
 
 ### Grooming
-
-Lorem ipsum is placeholder text commonly used in the graphic, print, and
-publishing industries for previewing layouts and visual mockups.
-Lorem ipsum is placeholder text commonly used in the graphic, print, and
-publishing industries for previewing layouts and visual mockups.
-
-### Housing
 
 Lorem ipsum is placeholder text commonly used in the graphic, print, and
 publishing industries for previewing layouts and visual mockups.
@@ -88,7 +91,7 @@ publishing industries for previewing layouts and visual mockups.
 Lorem ipsum is placeholder text commonly used in the graphic, print, and
 publishing industries for previewing layouts and visual mockups.
 
-### Litter Box
+### Housing
 
 Lorem ipsum is placeholder text commonly used in the graphic, print, and
 publishing industries for previewing layouts and visual mockups.
@@ -116,3 +119,4 @@ publishing industries for previewing layouts and visual mockups.
 Lorem ipsum is placeholder text commonly used in the graphic, print, and
 publishing industries for previewing layouts and visual mockups.
 
+What next? Go read about basic [health care](/care/health) for your cat.

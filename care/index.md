@@ -11,13 +11,16 @@ Curated links and content on cats and kitten care.
   - [Cat-proofing Home](getting-a-cat#cat-proofing-home)
   - [Acclimatisation](getting-a-cat#acclimatisation)
 
+- [**Vital Signs**](vitals)
+  - [How to measure?](vitals#how-to-measure)
+
 - [**Basic Care**](basic-cat-care)
-  - [Housing](basic-cat-care#housing)
   - [Feeding](basic-cat-care#feeding)
   - [Litter Box](basic-cat-care#litter-box)
+  - [Housing](basic-cat-care#housing)
   - [Grooming](basic-cat-care#grooming)
-  - [Handling](basic-cat-care#handling)
   - [Playing](basic-cat-care#playing)
+  - [Handling](basic-cat-care#handling)
   - [Safety](basic-cat-care#safety)
 
 - [**Health**](health)
