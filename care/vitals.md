@@ -7,10 +7,12 @@ As a cat parent learn and remember following vital signs and how to measure them
 that can help you determine if your furry friend needs help:
 
 - Heart rate: 140-220 beats per minute
-- Temperature: 100F-103F
+- Temperature: 100F-103F (38.1°C to 39.2°C)
 - Respiratory rate: 20-40 breaths per minute, in resting state
 - Hydration Status: Pink, moist not dry skin that should span back against body instantly
 - Capillary Refill Time: less than 2 seconds
+
+Reference: [https://www.cathelp-online.com/emergency/vitals.php](https://www.cathelp-online.com/emergency/vitals.php)
 
 ### How to measure?
 
@@ -47,5 +49,3 @@ from pale to pink.
 If the vital signs are not in the normal range please reach out to your vet for
 consultation. If your cat is showing other signs of illness such as loss of
 apetite, lethargy, loss of muscle control etc. it could be an emergency already.
-
-The page on [health](/care/health) has more details around feline health and issues.

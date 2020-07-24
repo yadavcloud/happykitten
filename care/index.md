@@ -3,6 +3,8 @@ layout: page
 title: Cats and Kitten Care
 ---
 
+** THIS SECTION IS WORK IN PROGRESS **
+
 Curated links and content on cats and kitten care.
 
 - [**Getting a Cat or a Kitten**](getting-a-cat)
@@ -22,30 +24,4 @@ Curated links and content on cats and kitten care.
   - [Playing](basic-cat-care#playing)
   - [Handling](basic-cat-care#handling)
   - [Safety](basic-cat-care#safety)
-
-- [**Health**](health)
-  - Medicines and Poisons
-  - Spaying and Neutering
-  - Vaccinations and Deworming
-  - Pest control: fleas, ticks and mites
-  - Force Feeding
-  - First Aid and CPR
-  - Pain Management
-
-- [**Behaviour Issues**](behaviour)
-  - Agression
-  - Withdrawal
-  - Hiding
-  - Loss of apetite
-
-- [**Boarding**](boarding)
-  - Fostering
-  - Boarding and Hostel
-  - Travel management
-  - Relocation
-
-- [**Miscellaneous**](miscellaneous)
-  - Loss of Pet
-  - Run aways
-  - Adoption and Volunteering
-  - Reporting abuse
+  - [Health](basic-cat-care#health)

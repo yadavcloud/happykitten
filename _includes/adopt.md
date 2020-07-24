@@ -13,13 +13,6 @@ immune system which may already be under stress due to an underlying infection
 or genetic issue. If you meet a seller who has done first vaccination of their
 kittens by 6-8 weeks, run!
 
-The best way to get your feline friend home is through adoption.
-You should join a group like [Fans of Cats
-Delhi](https://www.facebook.com/groups/850715891625822/) or attend an adoption
-gala near you like [Adopt Till You Drop](https://www.facebook.com/adoptillyoudrop/).
-
-<div class="text-center">
-  <a href="https://www.facebook.com/groups/850715891625822/" class="btn btn-danger btn-lg active" role="button" aria-pressed="true"><b>Adopt a Cat or Kitten Now!</b></a>
-</div>
-
-<br/>
+The best way to get your feline friend home is through adoption. You can join FB
+groups like [Fans of Cats
+Delhi](https://www.facebook.com/groups/850715891625822/) ask for adoption.

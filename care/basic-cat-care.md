@@ -15,6 +15,7 @@ Basic list of essential things to get for your cat:
 - Litter box and litter
 - Grooming: brushes, shampoo, cleaning supplies
 - Toys
+- First-aid
 
 ### Feeding
 
@@ -119,4 +120,18 @@ publishing industries for previewing layouts and visual mockups.
 Lorem ipsum is placeholder text commonly used in the graphic, print, and
 publishing industries for previewing layouts and visual mockups.
 
-What next? Go read about basic [health care](/care/health) for your cat.
+## Health
+
+Work in Progress...
+- Revolution (Selamectin) spot-on for fleas, heartworms, roundworms
+- Deworming, feli-D? etc.
+
+TODO: first-aid, tonic/supplements and essential medicines etc.
+
+  - Medicines and Poisons
+  - Spaying and Neutering
+  - Vaccinations and Deworming
+  - Pest control: fleas, ticks and mites
+  - Force Feeding
+  - First Aid and CPR
+  - Pain Management
