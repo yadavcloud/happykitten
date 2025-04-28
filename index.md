@@ -2,6 +2,8 @@
 layout: page
 title: Happy
 redirect_from: "/about/"
+redirect_to:
+  - https://rohityadav.cloud/happy/
 ---
 
 <a href="/photos/napping-happy.jpg" target="_blank">
